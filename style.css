@@ -1,8 +1,14 @@
+.container-fluid{
+    font-weight: 700;
+    font-size: x-large;
+}
 .home{
-    background-color: aqua;
+    background-color: burlywood;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 img{
- padding: 50px;
+ height:500px;
+ padding-left: 500px;
 }

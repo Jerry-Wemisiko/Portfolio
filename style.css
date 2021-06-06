@@ -10,5 +10,7 @@
 }
 img{
  height:500px;
- padding-left: 500px;
+ border: solid 5px gray;
+ border-radius: 5px;
+ margin: 100px;
 }

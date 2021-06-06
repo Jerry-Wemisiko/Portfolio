@@ -1,7 +1,8 @@
 .home{
-    /* align-items: center; */
     background-color: aqua;
+    display: flex;
+    flex-direction: row;
 }
-.descr{
-
+img{
+ padding: 50px;
 }

@@ -18,5 +18,5 @@ There are no known bugs at this moment.
 ### Live Site
 View [live](https://jerry-wemisiko.github.io/Portfolio/)
 ### License
-This project is under the  [MIT](LICENSE) licence
+This project is under the  [MIT](https://choosealicense.com/licenses/mit/) licence
 Copyright (c) 2021 **Jerry Wemisiko**

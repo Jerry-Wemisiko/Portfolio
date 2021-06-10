@@ -1,58 +1,96 @@
-*{
+* {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.container{
-    margin: 0;
+
+.container-fluid {
+    font-weight: 700;
+    font-size: x-large;
     padding: 0;
 }
-#ed{
+
+.container {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.container h1 {
+    font-weight: 700;
+    font-size: xx-large;
+}
+
+#back {
     background-color: burlywood;
     text-align: center;
     margin-left: 0;
-    margin-bottom: 22%;
-    margin-top: 0;
-    padding: 20px;   
+    margin-bottom: 105px;
+    padding: 20px;
+    border: solid 5px grey;
+    border-radius: 5px;
 }
-#goals{
+
+#ed {
+    background-color: burlywood;
+    text-align: center;
+    margin-left: 0;
+    margin-bottom: 105px;
+    margin-top: 0;
+    padding: 20px;
+    border: solid 5px grey;
+    border-radius: 5px;
+}
+
+#goals {
     background-color: burlywood;
     text-align: center;
     padding: 20px;
+    border: solid 5px grey;
+    border-radius: 5px;
 }
 
-span{
+span {
     font-style: italic;
     font-weight: 700;
 }
-.footer{
-    height: 122px;
+
+.footer {
+    height: 123px;
     padding: 30px 0 10px 47%;
     border: solid 1px;
     background-color: rgb(77, 75, 75);
 }
-#fb{
+
+#fb {
     /* border: solid 1px black; */
     width: fit-content;
     height: fit-content;
-    margin:5px;
+    margin: 5px;
     padding: 5px;
     /* display: flex; */
 }
-#ig{
+
+#ig {
     /* border: solid 1px black; */
     width: fit-content;
     height: fit-content;
-    margin:5px;
+    margin: 5px;
     padding: 5px;
     /* display: flex; */
 }
-#github{
+
+#github {
     /* border: solid 1px black; */
     width: fit-content;
     height: fit-content;
     padding: 5px;
-    margin:5px;
+    margin: 5px;
 }
-.ft{
+
+.ft {
     display: flex;
     flex-direction: row;
+}
+
+span {
+    font-style: italic;
 }
